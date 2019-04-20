@@ -1,0 +1,16 @@
+.App {
+  text-align: center;
+  margin: 5%;
+  height:100%;
+  zoom:90%;
+}
+
+.box{
+  width: 100px;
+  height: 100px;
+  background: #ff1c68;
+  transform-origin: 50% 50%;
+}
+
+
+button:focus {outline:0 !important;}
